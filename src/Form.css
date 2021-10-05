@@ -1,0 +1,55 @@
+body{
+    background-image: url("https://thumbs.dreamstime.com/b/crm-word-paper-note-white-wood-table-background-backgrounds-99766077.jpg");
+    background-size: cover;
+}
+
+.form{
+    font-size: x-large;
+    width:fit-content;
+    background-color:darkcyan;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 12px;
+    overflow: hidden;
+    padding: 0 .625em;
+}
+
+.text{
+    font-size: inherit;
+}
+
+.label{
+    cursor: pointer;
+    display: inline-block;
+    padding: 3px 6px;
+    text-align: right;
+    width: 150px;
+    vertical-align: top;
+}
+
+.container {
+    font-size: xx-large;
+    background-color:cadetblue;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.home{
+        display:grid;
+}
+
+.para{
+    margin-top: 0%;
+    font-size: 25px;
+    font-family: fantasy;
+}
+
+.drop{
+    font-size: large;
+    justify-content:stretch;
+}
+
+.icon{
+    display:inline-flex;
+    color: rosybrown;
+}
